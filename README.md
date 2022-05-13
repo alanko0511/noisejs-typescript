@@ -9,7 +9,7 @@ import Perlin from './perlin';
 const seed = Math.random();
 const noise = new Perlin(seed);
 
-// Call the noise functions to get the noise value for that coordinatre.
+// Call the noise functions to get the noise value for that coordinates.
 noise.simplex2(x, y);
 noise.simplex3(x, y, z);
 
