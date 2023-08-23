@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true,
+    "source.sortMembers": true
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "prettier.printWidth": 120,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true
+}
